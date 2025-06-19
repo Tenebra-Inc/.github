@@ -1,4 +1,4 @@
-## Tenebra Inc.
+![tenebra_banner](https://github.com/user-attachments/assets/80ff5497-f617-40d7-ab9f-a21529e50987)
 ## In Code We Trust
 
 <!--

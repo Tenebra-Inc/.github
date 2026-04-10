@@ -71,9 +71,8 @@ Foreground color: `#f2f2f2`
 
 ## 7. Legal Status
 
-Tenebra Inc. is not a registered legal entity in any jurisdiction<!-- yet -->. The collective assumes no liability for any software, documentation, or media produced. All products are provided "as is" without warranty of any kind.
+The collective assumes no liability for any software, documentation, or media produced. All products are provided "as is" without warranty of any kind.
 
-Questions of licensing are handled by the respective project maintainers.
 
 ## 8. Intellectual Property & Confidentiality
 

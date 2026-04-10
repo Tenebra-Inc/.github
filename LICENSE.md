@@ -203,6 +203,7 @@ If any provision of this License is held to be invalid or unenforceable, such pr
 Automatic Termination: All rights granted under this License shall terminate automatically upon breach of the Commercial Use Restriction in Clause 3(c) or the Asset Extraction Prohibition in Clause 4(a)
 
 Notice and Cure: This License and the rights granted hereunder will terminate automatically in:
+	
 	(a) twenty-four (24) hours for breaches of Clause 3(b), extended to three (3) days for individual non-commercial users;
 	
 	(b) seven (7) days for breaches of Clauses 5(a,b), extended to fourteen (14) days for individual non-commercial users;

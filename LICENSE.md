@@ -88,11 +88,11 @@ Any Binaries distributed as part of the Project must reproduce the above copyrig
 
 (d) Notwithstanding the foregoing, the following activities are expressly permitted and shall not be deemed 'Commercial Use' under this License:
 
-    (i) Content Creation: Broadcasting, streaming, or creating video content featuring gameplay or commentary of the Project on platforms (e.g., Twitch, YouTube) that generate advertising or subscription revenue. The stream, broadcast or video content must be publicly available free of charge, or become publicly available free of charge after a seven (7) day period.
+- (i) Content Creation: Broadcasting, streaming, or creating video content featuring gameplay or commentary of the Project on platforms (e.g., Twitch, YouTube) that generate advertising or subscription revenue. The stream, broadcast or video content must be publicly available free of charge, or become available on the same terms after a fourteen (14) day period.
 
-    (ii) Modding & Community Support: Soliciting voluntary donations, crowdfunding, or operating a Patreon/Ko-fi page to support the creation, hosting, or maintenance of free modifications for the Project. This exception applies regardless of whether the donations strictly equal out-of-pocket expenses, provided that access to the modification itself is not paywalled or sold as a separate product. The modification must be available for download without requiring payment or a minimum donation tier.
+- (ii) Modding & Community Support: Soliciting voluntary donations, crowdfunding, or operating a voluntary financial support platform page (Patreon/Ko-fi) to support the creation, hosting, or maintenance of free modifications for the Project. This exception applies regardless of whether the donations strictly equal out-of-pocket expenses, provided that access to the modification itself is not paywalled or sold as a separate product. The modification must be available for download without requiring payment or a minimum donation tier, or become available on the same terms after a fourteen (14) day period.
    			
-    (iii) Incidental Inclusion: Use of the Project within a for-profit entity for internal evaluation, review, or academic study that does not result in the Project being used as a product or service offering.
+- (iii) Incidental Inclusion: Use of the Project within a for-profit entity for internal evaluation, review, or academic study that does not result in the Project being used as a product or service offering.
 
 <br>
 
@@ -101,31 +101,31 @@ Any Binaries distributed as part of the Project must reproduce the above copyrig
 
 (b) **Permitted Derivative Works.** Notwithstanding subsection (a), you are expressly permitted to create and distribute derivative works that incorporate Content from the Project, including but not limited to fan art, fan fiction, physical models, and videos, provided that:
 
-    (i) such derivative works are not distributed as a standalone, functional replacement for the Project's software or a substantial portion thereof; and
+- (i) such derivative works are not distributed as a standalone, functional replacement for the Project's software or a substantial portion thereof; and
 
-    (ii) such derivative works are licensed under terms that permit free non-commercial sharing and adaptation. The Owner recommends the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) for artistic derivative works; and
+- (ii) such derivative works are licensed under terms that permit free non-commercial sharing and adaptation. The Owner recommends the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) for artistic derivative works; and
 
-    (iii) such derivative works shall be accompanied with an attribution to the Project, including the Project's title and the Owner's legal pseudonym or logo, in a manner reasonable to the medium.
+- (iii) such derivative works shall be accompanied with an attribution to the Project, including the Project's title and the Owner's legal pseudonym or logo, in a manner reasonable to the medium.
 
-    (iv) Physical Merchandise and Source File Availability. The sale of physical objects (including but not limited to 3D prints, sculptures, apparel, or crafted items) created from permitted derivative works is expressly allowed, provided that:
+- (iv) Physical Merchandise and Source File Availability. The sale of physical objects (including but not limited to 3D prints, sculptures, apparel, or crafted items) created from permitted derivative works is expressly allowed, provided that:
 
-        (A) the physical object includes or is accompanied by attribution to the Project as required by subsection (iii); and
+	- (A) the physical object includes or is accompanied by attribution to the Project as required by subsection (iii); and
 
-        (B) if the physical object is produced from a digital source file (e.g., an STL, OBJ, BLEND, or other 3D model file), that source file must be made publicly available under the license terms required by subsection (ii). This ensures the digital commons remains open while allowing makers to be compensated for their fabrication labor and materials.
+	- (B) if the physical object is produced from a digital source file (e.g., an STL, OBJ, BLEND, or other 3D model file), that source file must be made publicly available under the license terms required by subsection (ii). This ensures the digital commons remains open while allowing makers to be compensated for their fabrication labor and materials.
 
-    (v) Opt-Out Provision for Unaffiliated Projects. The permissions granted in subsection (b)(iv) regarding physical merchandise sales apply only if the Owner has not explicitly disclaimed them in a file named MERCHANDISE.md located in the root directory of the Project repository. If no such file exists, or if the file does not state otherwise, the permissions of subsection (b)(iv) are in full force. This allows each Project Owner to decide whether to permit physical merchandise sales under their own brand.
+- (v) Opt-Out Provision for Unaffiliated Projects. The permissions granted in subsection (b)(iv) regarding physical merchandise sales apply only if the Owner has not explicitly disclaimed them in a file named MERCHANDISE.md located in the root directory of the Project repository. If no such file exists, or if the file does not state otherwise, the permissions of subsection (b)(iv) are in full force. This allows each Project Owner to decide whether to permit physical merchandise sales under their own brand.
 
 (c) **Fan Games and Software Modifications.** Any derivative work that constitutes a playable game, software application, or modification that includes Project code or compiled Binaries must be distributed under the terms of this Tenebra Source License, including the requirement that it be made available free of charge, unless separate written permission is obtained from the Owner under Clause 3(c).
 
 (d) **Attribution for Public Display.** Any public display, performance, or broadcast of the Project permitted under this Clause 3(d)—including but not limited to livestreams, video content, and mod showcases—must include reasonably prominent attribution to the Project and its Owner. Such attribution may be satisfied by:
 
-    (i) Displaying the Project's title and the Owner's legal pseudonym in the video description, stream overlay, or credits section;
+- (i) Displaying the Project's title and the Owner's legal pseudonym in the video description, stream overlay, or credits section;
 
-    (ii) Linking to the Project's official repository or website, if one exists; and
+- (ii) Linking to the Project's official repository or website, if one exists; and
 
-    (iii) Stating that the content is created under the Tenebra Source License v1.0 or later.
+- (iii) Stating that the content is created under the Tenebra Source License v1.0 or later.
 
-    Failure to provide attribution does not constitute a breach of the Commercial Use Restriction under Clause 3(c), but the Owner reserves the right to request that the attribution deficiency be cured within a reasonable time. Repeated or willful failure to attribute after notice may be deemed a breach of Clause 1 of this License.
+- Failure to provide attribution does not constitute a breach of the Commercial Use Restriction under Clause 3(c), but the Owner reserves the right to request that the attribution deficiency be cured within a reasonable time. Repeated or willful failure to attribute after notice may be deemed a breach of Clause 1 of this License.
 
 (e) **Clarification on Scope.** This Clause 4 is intended to protect the integrity of the Project's visual and audio identity while fostering a healthy fan ecosystem. It is not intended to restrict fair use, fair dealing, or other applicable exceptions to copyright law, nor to prevent the creation of transformative works that do not merely repackage the Project's raw assets.
 
@@ -140,13 +140,13 @@ You may not use the Project to train, fine-tune, validate, or develop any artifi
 
 (c) Notwithstanding the foregoing, you may use Generative AI Programs (GAP) if the models are deployed locally. Any contributions made with the assistance of such GAP:
 
-    (i) must explicitly state that they were made fully or partially with the assistance of GAP;
+- (i) must explicitly state that they were made fully or partially with the assistance of GAP;
 
-    (ii) must be reviewed by the Project maintainers and/or the Owner personally; and
+- (ii) must be reviewed by the Project maintainers and/or the Owner personally; and
 
-    (iii) may be denied from being merged into the Project, if deemed unacceptable or unwanted by the Project maintainers.
+- (iii) may be denied from being merged into the Project, if deemed unacceptable or unwanted by the Project maintainers.
 
-    (iv) may be denied from being merged into the Project at the sole discretion of the Owner without explicit reason.
+- (iv) may be denied from being merged into the Project at the sole discretion of the Owner without explicit reason.
 
 <br>
 
@@ -204,11 +204,11 @@ Automatic Termination: All rights granted under this License shall terminate aut
 
 Notice and Cure: This License and the rights granted hereunder will terminate automatically in:
 	
-	(a) twenty-four (24) hours for breaches of Clause 3(b), extended to three (3) days for individual non-commercial users;
+- (a) twenty-four (24) hours for breaches of Clause 3(b), extended to three (3) days for individual non-commercial users;
 	
-	(b) seven (7) days for breaches of Clauses 5(a,b), extended to fourteen (14) days for individual non-commercial users;
+- (b) seven (7) days for breaches of Clauses 5(a,b), extended to fourteen (14) days for individual non-commercial users;
 	
-	(c) fourteen (14) days for breaches of Clauses 1, 2, 3(a), 4(b,c,d), extended to twenty-one (21) days for individual non-commercial users;
+- (c) fourteen (14) days for breaches of Clauses 1, 2, 3(a), 4(b,c,d), extended to twenty-one (21) days for individual non-commercial users;
 
 after the Owner provides written notice of the breach, unless the breach is cured within that period.
 

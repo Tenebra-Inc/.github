@@ -1,4 +1,4 @@
-<p align="center">Tenebra Source License v1.0 (TSL-1.0)</p> <p align="center">12 April 2026</p><br> Copyright (C) 2026 MirialisT (Tenebra Inc.)
+<p align="center">Tenebra Source License v1.0 (TSL-1.0)</p> <p align="center">10 April 2026</p><br> Copyright (C) 2026 MirialisT (Tenebra Inc.)
 <br>
 <br>
 
@@ -26,7 +26,7 @@ Notwithstanding the foregoing, any recipient of the Project under a previous ver
 <br>
 
 *The Founder values the modding and player community. The restrictions herein are intended to prevent commercial exploitation by large entities or bad actors, not to penalize individual hobbyists or fan creators.
-An exception is given under Clause 5, in sole goal of maintaining the quality of the Project and respect to the human craft. In the event of ambiguity regarding activities permitted under Clause 3(d), the Founder intends for the interpretation most favorable to non-commercial, fan-driven creativity to prevail.*
+An exception is given under Clause 5, in sole goal of maintaining the quality of the Project and respect to the human craft. In the event of ambiguity regarding activities permitted under Clause 3(d), the Founder intends that the interpretation most favorable to non-commercial, fan-driven creativity to prevail.*
 
 <br>
 
@@ -88,7 +88,7 @@ Any Binaries distributed as part of the Project must reproduce the above copyrig
 
 (d) Notwithstanding the foregoing, the following activities are expressly permitted and shall not be deemed 'Commercial Use' under this License:
 
-    (i) Content Creation: Broadcasting, streaming, or creating video content featuring gameplay or commentary of the Project on platforms (e.g., Twitch, YouTube) that generate advertising or subscription revenue. The stream, broadcast or video content should be publicly available free of charge, or become publicly available free of charge after a seven (7) day period.
+    (i) Content Creation: Broadcasting, streaming, or creating video content featuring gameplay or commentary of the Project on platforms (e.g., Twitch, YouTube) that generate advertising or subscription revenue. The stream, broadcast or video content must be publicly available free of charge, or become publicly available free of charge after a seven (7) day period.
 
     (ii) Modding & Community Support: Soliciting voluntary donations, crowdfunding, or operating a Patreon/Ko-fi page to support the creation, hosting, or maintenance of free modifications for the Project. This exception applies regardless of whether the donations strictly equal out-of-pocket expenses, provided that access to the modification itself is not paywalled or sold as a separate product. The modification must be available for download without requiring payment or a minimum donation tier.
    			
@@ -144,9 +144,9 @@ You may not use the Project to train, fine-tune, validate, or develop any artifi
 
     (ii) must be reviewed by the Project maintainers and/or the Owner personally; and
 
-    (iii) may be denied merging into the Project, if deemed unacceptable or unwanted by the Project maintainers.
+    (iii) may be denied from being merged into the Project, if deemed unacceptable or unwanted by the Project maintainers.
 
-    (iv) may be denied merging into the Project at the sole discretion of the Owner without explicit reason.
+    (iv) may be denied from being merged into the Project at the sole discretion of the Owner without explicit reason.
 
 <br>
 

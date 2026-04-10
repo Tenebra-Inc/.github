@@ -40,7 +40,7 @@ An exception is given under Clause 5, in sole goal of maintaining the quality of
 
 "Binaries" shall mean the Software in compiled, executable, or object code form.
 
-"Founder" shall mean the individual operating under the pseudonym MirialisT (@MirialisT, mirialisT@protonmail.com), that holds the copyright to this License, or any legal entity that individual later forms to hold the Founder's intellectual property, provided that entity is publicly announced as the successor-in-interest via the official channels of communication owned by the Founder.
+"Founder" shall mean the individual operating under the pseudonym MirialisT (MirialisT, mirialisT@protonmail.com), that holds the copyright to this License, or any legal entity that individual later forms to hold the Founder's intellectual property, provided that entity is publicly announced as the successor-in-interest via the official channels of communication owned by the Founder.
 
 "Owner" shall mean the individual, group of individuals or legal entity that is responsible for managing the Project and holds the copyright in it, as identified in the Identification of the Owner section.
 

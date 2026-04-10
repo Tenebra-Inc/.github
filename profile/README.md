@@ -87,4 +87,4 @@ Violations (unauthorized leaks) will result in immediate removal from the Organi
 ## 9. Document Version
 
 This README is maintained as part of the `.github` repository.
-Last modified: `2026-04-07`
+Last modified: `2026-04-10`

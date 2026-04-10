@@ -73,7 +73,7 @@ Foreground color: `#f2f2f2`
 
 The collective assumes no liability for any software, documentation, or media produced. All products are provided "as is" without warranty of any kind.
 
-Some repositories may be licensed under custom [Tenebra Source License v1.0 (TSL-1.0)](#../LICENSE.md).
+Some repositories may be licensed under custom [Tenebra Source License v1.0 (TSL-1.0)](https://github.com/Tenebra-Inc/.github/blob/main/LICENSE.md)
 
 ## 8. Intellectual Property & Confidentiality
 
